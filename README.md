@@ -1,7 +1,7 @@
 ## Oioi Meu nome é Ruy, mas utilizo o nome Leckler na internet
 
 - 🌱 Estudando JavaScript
-- 😄 P Pretendo me tornar Dev de Games. 
+- 😄 Pretendo me tornar Dev de Games. 
 
 <div>
   <a href="https://beacons.ai/rafaballerini">
