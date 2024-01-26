@@ -3,6 +3,10 @@
 - 🌱 Estudando JavaScript
 - 😄 Pretendo me tornar Dev de Games. 
 
+<p align="start"><a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leckller&layout=compact&theme=aura_dark&count_private=true&hide_border=true&bg_color=0d1117">
+</a></p>
+
 <div>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -17,7 +21,3 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
-
-<p align="start"><a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leckller&layout=compact&theme=aura_dark&count_private=true&hide_border=true&bg_color=0d1117">
-</a></p>
