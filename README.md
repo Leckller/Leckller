@@ -2,14 +2,12 @@
 
 <div align="center">
   <a href="https://github.com/Leckller">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leckller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leckller&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leckller&layout=compact&langs_count=10&theme=aura_dark"/>
+  </a>
 </div>
 
-<p align="start"><a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leckller&layout=compact&theme=aura_dark&count_private=true&hide_border=true&bg_color=0d1117">
-</a></p>
-
-<div>
+<div align="center">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
