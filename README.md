@@ -1,10 +1,8 @@
 ## Olá, pessoa da internet.
 
 <div align="center">
-  <a href="https://github.com/Leckller">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leckller&langs_count=10&theme=merko&hide_progress=true"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Leckller&show_icons=true&theme=merko"/>
-  </a>
 </div>
 
   ```javascript
