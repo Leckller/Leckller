@@ -21,14 +21,14 @@ class Ruy {
 
   get conhecimentos() {
     return {
-      front-end: {
+      frontEnd: {
         tecnologias:  [
           "React.js", "HTML", "CSS",
           "Tailwind", "Styled-Components", "Redux",
           "Context-Api", "React-Router"
         ],
       },
-      back-end: [
+      backEnd: [
         "Express", "Docker", "MySql",
         "Firebase", "Jwt", "Node.Js",
         "Sequelize"
