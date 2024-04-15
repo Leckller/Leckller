@@ -23,7 +23,7 @@ class Ruy {
     return {
       frontEnd: {
         tecnologias:  [
-          "React.js", "HTML", "CSS",
+          "React.js", "HTML", "CSS", "RTL", "Jest",
           "Tailwind", "Styled-Components", "Redux",
           "Context-Api", "React-Router"
         ],
