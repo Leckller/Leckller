@@ -14,7 +14,7 @@ class Ruy {
 
   get linguagens() {
     return {
-      programacao: ["Typescript", "Javascript"],
+      programacao: ["Typescript", "Javascript", "Python", "C#"],
       comunicacao: ["Inglês - intermediário", "Português - Nativo"],
     }
   }
