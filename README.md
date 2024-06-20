@@ -1,7 +1,7 @@
 ## Olá, pessoa da internet.
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leckller&langs_count=12&theme=merko&hide_progress=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leckller&langs_count=21&theme=merko&hide_progress=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leckller&show_icons=true&theme=merko"/>
 </div>
 
