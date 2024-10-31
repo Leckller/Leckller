@@ -29,7 +29,7 @@ class Ruy {
       backEnd: [
         "Express", "Docker", "MySql",
         "Firebase", "Jwt", "Node.Js",
-        "Sequelize", Nest.Js, TypeOrm,
+        "Sequelize", "Nest.Js", "TypeOrm",
         "MySql", "PostgreSQL",
       ],
     } 
