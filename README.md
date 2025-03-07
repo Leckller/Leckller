@@ -58,7 +58,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="sqlite logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vuejs/vuejs-original.svg" height="30" alt="sqlite logo"  />
 </div>
 
 ###
