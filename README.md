@@ -32,6 +32,7 @@
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
 <div/>
 
+
 <!-- Other tecnologies -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=jest" height="50" alt="jest logo"  />
