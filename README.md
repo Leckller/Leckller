@@ -23,13 +23,15 @@
 
 <!-- Frameworks -->
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=angular" height="50" alt="angular logo"  />
+  <img width="8"/>
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=vue" height="50" alt="vuejs logo"  />
   <img width="8"/>
   <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo"  />
   <img width="8"/>
   <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
-  <img width="8"/>
-  <img src="https://skillicons.dev/icons?i=vue" height="50" alt="vuejs logo"  />
   <img width="8"/>
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
 <div/>
